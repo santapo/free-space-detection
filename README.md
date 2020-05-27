@@ -5,6 +5,9 @@
 
 This repository is the simple version of the <a href="https://github.com/fabvio/ld-lsi">original repository (ROS node).
 
+# Inference
+You have to check the configuration in `inference.py` and edit it for your purposes.
+
 ## Citation
 	
 If you found this code useful for your research, please cite
